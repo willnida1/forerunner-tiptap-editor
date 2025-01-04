@@ -1,7 +1,7 @@
 {
-  "name": "reactjs-tiptap-editor",
+  "name": "forerunner-tiptap-editor",
   "type": "module",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "main": "./lib/index.cjs",
   "module": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -227,7 +227,7 @@
   "homepage": "https://reactjs-tiptap-editor.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hunghg255/reactjs-tiptap-editor.git"
+    "url": "git+https://github.com/willnida1/forerunner-tiptap-editor.git"
   },
   "bugs": "https://github.com/hunghg255/reactjs-tiptap-editor/issues"
 }
